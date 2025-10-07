@@ -1,1 +1,29 @@
 
+git status is used to change the track the changing from working directroy to towards git local directory
+concept of branches
+branches are used for work aggregation where multiple users works on single repositry are allocated seprate  finally bthe changes are updates towards the main branch 
+
+the branches are managed locally as well s remote
+
+for the locally created reposirty establish a connection with a remote, perfom all the staging operation and complete the status history of all the comments and finally comment the changes on the remote ???? 
+
+
+the remote branch can be updated on the local with the help of the fetch operation followed by a checkup
+
+
+fetch + merge = pull
+
+git rm
+ this command is used to delete the file from the git repostiry
+stash is used to store the status of the working directory without commiting the change and switch all to the another branch 
+
+tag this is used to give a bookmark to the commited work.
+
+to give a tag to the commit 
+git tag v1.1
+
+git tag is used to list ht e tags on your vocal directory 
+
+
+to push origin on git hub 
+git push origin v1.1 

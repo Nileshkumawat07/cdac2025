@@ -1,0 +1,3 @@
+a git local reposrty using a command in it 
+update and snychronise the local project on to the remote
+ to verify that local is connect to repository
